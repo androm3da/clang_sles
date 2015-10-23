@@ -59,4 +59,3 @@ build_clang()
 
 build_base
 build_clang ${PWD}/${BUILD}/${INSTALL_DEST}/
-#build_clang ${PWD}/llvm_3.4.2_build/llvm+clang-3.4.2_optim_static/
